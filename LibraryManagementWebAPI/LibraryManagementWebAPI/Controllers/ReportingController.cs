@@ -11,5 +11,24 @@ namespace LibraryManagementWebAPI.Controllers
     [ApiController]
     public class ReportingController : ControllerBase
     {
+        private IReportingService _reportingService;
+        public ReportingController(IReportingService reportingService)
+        {
+            _reportingService = reportingService;
+        }
+
+        [HttpPost]
+        public ActionResult<double> CheckFineForEachBook([FromBody] IssueBook issueBook)//Id,Barcode
+        {
+            return _reportingService.CheckLateFee(issueBook.StudentId, issueBook.BookBarCode);
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<double> StudentCheckFine(int Id)
+        {
+            return _reportingService.CheckFine(Id);
+        }
+
+
     }
 }

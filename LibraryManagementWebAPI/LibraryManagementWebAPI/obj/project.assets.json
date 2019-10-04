@@ -12949,11 +12949,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\(DEV_SKILL)JALAL-UDDIN\\ASSIGNMENT_5\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\FU\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI.csproj",
       "projectName": "LibraryManagementWebAPI",
-      "projectPath": "E:\\(DEV_SKILL)JALAL-UDDIN\\ASSIGNMENT_5\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\FU\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\(DEV_SKILL)JALAL-UDDIN\\ASSIGNMENT_5\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\FU\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\LibraryManagementWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
