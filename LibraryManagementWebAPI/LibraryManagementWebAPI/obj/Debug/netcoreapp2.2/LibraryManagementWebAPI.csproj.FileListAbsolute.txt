@@ -1,0 +1,16 @@
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\LibraryManagementWebAPI.deps.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\LibraryManagementWebAPI.runtimeconfig.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\LibraryManagementWebAPI.runtimeconfig.dev.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\LibraryManagementWebAPI.dll
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.csprojAssemblyReference.cache
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.RazorAssemblyInfo.cache
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.RazorAssemblyInfo.cs
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.AssemblyInfoInputs.cache
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.AssemblyInfo.cs
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.RazorTargetAssemblyInfo.cache
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\bin\Debug\netcoreapp2.2\LibraryManagementWebAPI.pdb
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.dll
+E:\(DEV_SKILL)JALAL-UDDIN\ASSIGNMENT_5\LibraryManagementWebAPI\LibraryManagementWebAPI\obj\Debug\netcoreapp2.2\LibraryManagementWebAPI.pdb
